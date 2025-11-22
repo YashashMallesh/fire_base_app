@@ -17,6 +17,15 @@ export default function Home() {
           background: `radial-gradient(circle at 50% 65%, ${activeCarColor}20 0%, hsl(var(--background)) 50%)`
         }}
       />
+      <div
+        aria-hidden="true"
+        className="absolute inset-0 z-0 animate-grid-pulse"
+        style={{
+          '--grid-color': 'hsl(var(--foreground) / 0.05)',
+          backgroundSize: '40px 40px',
+          backgroundImage: 'linear-gradient(to right, var(--grid-color) 1px, transparent 1px), linear-gradient(to bottom, var(--grid-color) 1px, transparent 1px)',
+        }}
+      />
       <div className="relative z-10 flex min-h-screen flex-col">
         <Header />
         <main className="flex-1">
