@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "car-1",
+      "description": "A sleek, futuristic silver sports car.",
+      "imageUrl": "https://images.unsplash.com/photo-1628519592419-bf288f08cef5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzcG9ydHMlMjBjYXJ8ZW58MHx8fHwxNzYzNzM2NzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports car"
+    },
+    {
+      "id": "car-2",
+      "description": "A classic red muscle car from the 70s.",
+      "imageUrl": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bXVzY2xlJTIwY2FyfGVufDB8fHx8MTc2MzcyOTMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "muscle car"
+    },
+    {
+      "id": "car-3",
+      "description": "A modern black luxury sedan.",
+      "imageUrl": "https://images.unsplash.com/photo-1646283181928-59e4244eb1e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bHV4dXJ5JTIwc2VkYW58ZW58MHx8fHwxNzYzODA2MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury sedan"
+    },
+    {
+      "id": "car-4",
+      "description": "An electric blue SUV with a panoramic roof.",
+      "imageUrl": "https://images.unsplash.com/photo-1736794111724-f7ddff6ab8f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlbGVjdHJpYyUyMHN1dnxlbnwwfHx8fDE3NjM4MTc5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric suv"
+    },
+    {
+      "id": "car-5",
+      "description": "A rugged off-road vehicle in a desert landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1649908787483-d3f0146545ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvZmYtcm9hZCUyMHZlaGljbGV8ZW58MHx8fHwxNzYzODE0NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "off-road vehicle"
+    }
+  ]
+}
